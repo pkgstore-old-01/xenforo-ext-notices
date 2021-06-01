@@ -22,7 +22,7 @@
     "source": "https://github.com/pkgstore/xenforo-ext-notices"
   },
   "require": {
-    "composer/installers": "^1"
+    "composer/installers": "^1.9"
   },
   "autoload": {
     "psr-4": {}
